@@ -5,7 +5,11 @@ This project aims to predict credit card consumption using customer demographics
 
 🔹 Project Overview
 Data Sources: Merged multiple datasets containing customer demographics, transaction history, and credit consumption.
+
 Preprocessing: Handled missing values, encoded categorical data, and managed outliers.
+
 Feature Engineering: Extracted key financial indicators influencing credit consumption.
+
 Modeling: Trained various ML models (Linear Regression, Random Forest, XGBoost, etc.) to predict credit usage.
+
 Evaluation: Used Root Mean Squared Percentage Error (RMSPE) to select the best-performing model.
